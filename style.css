@@ -1,5 +1,13 @@
+/* The below class is just to change the font/color/size of my name in the top left of Navbar*/
+.navbar-light .navbar-brand {
+font-size: 40px;
+color: #46FF33;
+text-shadow: -3px 0px #fc33ff, 0 3px #fc33ff, 3px 0 #fc33ff, 0 -3px #fc33ff;
+}
+
 /* The below class "main" just contains the main image of my website. */
 .main {
    width: 100%;
    padding: 0px 100px 45px 100px;
 }
+
