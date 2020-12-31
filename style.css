@@ -1,3 +1,5 @@
+/* The section below is for the index.html page only! */
+
 /* The below class is just to change the font/color/size of my name in the top left of Navbar*/
 .navbar-light .navbar-brand {
 font-size: 40px;
@@ -11,3 +13,17 @@ text-shadow: -3px 0px #fc33ff, 0 3px #fc33ff, 3px 0 #fc33ff, 0 -3px #fc33ff;
    padding: 0px 100px 45px 100px;
 }
 
+/* The section below is for the portfolio.html page only!  */
+
+/* The below class is for sizing the images on my portfolio.html page. */
+
+body {
+   background-color: black;
+} 
+
+/* Row 1 of images*/
+#row1 img {
+   height: 300px;
+   width: 300px;
+   object-fit: contain;
+}
