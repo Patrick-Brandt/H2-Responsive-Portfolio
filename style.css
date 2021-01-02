@@ -1,9 +1,10 @@
 /* INDEX.HTML- The section below is for the index.html page only. Portfolio.html, contact.html, and 
 about.html each have their own sections further down the page. */
 
-   /* The below class is just to change the font/color/size of my name in the top left of Navbar.  */
+   /* The below class is just to change the font/color/size of my name in the top left of Navbar 
+   on the main index.html page.  */
    .navbar-light .navbar-brand {
-   font-size: 40px;
+   font-size: 32px;
    color: #46FF33;
    text-shadow: -3px 0px #fc33ff, 0 3px #fc33ff, 3px 0 #fc33ff, 0 -3px #fc33ff;
    }
@@ -13,7 +14,6 @@ about.html each have their own sections further down the page. */
       width: 100%;
       padding: 0px 100px 45px 100px;
    }
-
 
 /* PORTFOLIO.HTML- The section below is for the portfolio.html page only.  */
 
@@ -27,6 +27,41 @@ about.html each have their own sections further down the page. */
       width: 300px;
       object-fit: contain;
    }
+
+   /* Row 2 of images*/
+   #row2 img {
+      height: 300px;
+      width: 300px;
+      object-fit: contain;
+   }
+   
+   /* Row 3 of images*/
+   #row3 img {
+      height: 300px;
+      width: 300px;
+      object-fit: contain;
+   }
+
+   /* Row 4 of images*/
+   #row4 img {
+      height: 300px;
+      width: 300px;
+      object-fit: contain;
+   }
+
+    /* Row 5 of images*/
+    #row5 img {
+      height: 300px;
+      width: 300px;
+      object-fit: contain;
+   }
+   /*
+   img:hover {
+      -webkit-transform:scale(1.5); 
+      transform:scale(1.5);
+  } */
+
+  #portfolio a:hover {width:400px;height:600px;}  /* mouse over link 
 
 /*  CONTACT.HTML- The section directly below is for the contact.html page only.  */
 
