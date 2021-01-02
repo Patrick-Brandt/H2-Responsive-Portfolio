@@ -21,38 +21,39 @@ about.html each have their own sections further down the page. */
       background-color: black;
    } 
 
+   
    /* Row 1 of images*/
    #row1 img {
-      height: 300px;
-      width: 300px;
+      height: 200px;
+      width: 200px;
       object-fit: contain;
    }
 
    /* Row 2 of images*/
    #row2 img {
-      height: 300px;
-      width: 300px;
+      height: 200px;
+      width: 200px;
       object-fit: contain;
    }
    
    /* Row 3 of images*/
    #row3 img {
-      height: 300px;
-      width: 300px;
+      height: 200px;
+      width: 200px;
       object-fit: contain;
    }
 
    /* Row 4 of images*/
    #row4 img {
-      height: 300px;
-      width: 300px;
+      height: 200px;
+      width: 200px;
       object-fit: contain;
    }
 
     /* Row 5 of images*/
     #row5 img {
-      height: 300px;
-      width: 300px;
+      height: 200px;
+      width: 200px;
       object-fit: contain;
    }
    /*
