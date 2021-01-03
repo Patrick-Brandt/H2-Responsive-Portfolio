@@ -12,7 +12,15 @@ about.html each have their own sections further down the page. */
    /* The below class "main" just contains the main image of my website on the index.html page. */
    .main {
       width: 100%;
-      padding: 0px 100px 45px 100px;
+      position: relative;
+   }
+
+   .mainpic {
+      width: 100%;
+      padding: 0px 20px 45px 20px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
    }
 
 /* PORTFOLIO.HTML- The section below is for the portfolio.html page only.  */
