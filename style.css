@@ -35,4 +35,10 @@ about.html each have their own sections further down the page. */
 
    #contact {
       background-color: black;
+      color: #fc33ff;
+   }
+
+   h1 {
+      color: #46FF33;
+      text-shadow: -3px 0px #fc33ff, 0 3px #fc33ff, 3px 0 #fc33ff, 0 -3px #fc33ff;
    }
