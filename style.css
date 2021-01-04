@@ -48,7 +48,13 @@
       text-indent: 40px;
    }
    
-
+   #copyright {
+      width: 100%;
+      font-size: 12px;
+      color:white;
+      background-color:black;
+      text-align: center;
+   }
    
 /* PORTFOLIO.HTML- The section below is for the portfolio.html page only.  */
 
