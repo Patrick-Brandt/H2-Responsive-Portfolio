@@ -75,7 +75,8 @@
 /*  CONTACT.HTML- The section directly below is for the contact.html page only.  */
 
    #contactmain {
-      background-color: #f8f9fa;
+      background-image: url("Assets/me2.jpg");
+      background-size: contain;
    }
 
    #contactform {
@@ -87,13 +88,13 @@
    
    #contactform h1 {
       color:#46FF33;
-      background-color: #c1b7ff;
+      background-color: #fc33ff;
       text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
       text-indent: 80px;
    }
 
    #button {
-      background-color: #c1b7ff;
+      background-color: #fc33ff;
       color: #46FF33;
       font-size: 32px;
       text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
@@ -105,6 +106,6 @@
    }
 
    label {
-      color: black;
-      background-color: #c1b7ff;
+      color:black;
+      background-color: #fc33ff;
    }
