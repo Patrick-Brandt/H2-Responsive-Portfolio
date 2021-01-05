@@ -4,11 +4,18 @@
    /* The below class is just to change the font/color/size of my name in the top left of Navbar 
    on the main index.html page.  */
    .navbar-light .navbar-brand {
-   font-size: 32px;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+   font-size: 40px;
    color: #46FF33;
    text-shadow: -3px 0px #fc33ff, 0 3px #fc33ff, 3px 0 #fc33ff, 0 -3px #fc33ff;
    }
 
+   .nav-link {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      font-size: 20px; 
+   }
    /* The below class "main" just contains the main image of my website on the index.html page. */
    
    .mainpic {
@@ -45,7 +52,7 @@
 
    p {
       font-family: 'Courier New', Courier, monospace;
-      font-size: 18px; 
+      font-size: 24px; 
       text-indent: 40px;
       padding-left: 15px;
       padding-right: 15px;
@@ -83,6 +90,8 @@
    }
 
    #contactform {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
       display: block;
       margin-top: 20px;
       margin-left: 20px;
@@ -95,12 +104,15 @@
       text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
       text-indent: 80px;
       font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
    }
 
    #button {
       background-color: #fc33ff;
       color: #46FF33;
       font-size: 32px;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
       text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
       border-radius: 50%;
       border-color: black;
