@@ -11,13 +11,14 @@
    text-shadow: -3px 0px #fc33ff, 0 3px #fc33ff, 3px 0 #fc33ff, 0 -3px #fc33ff;
    }
 
+   /* The below class is just to change the font/color/size of "Home" and "Menu" on navbar.  */
    .nav-link {
       font-family: 'Courier New', Courier, monospace;
       font-weight: bold;
       font-size: 20px; 
    }
+
    /* The below class "main" just contains the main image of my website on the index.html page. */
-   
    .mainpic {
       width: 100%;
       padding: 0px 20px 20px 20px;
@@ -27,12 +28,12 @@
    }
 
 /* ABOUT ME Section- The section below is for the "About Me" Section of the index.html page.  */
-   
    .aboutme {
          background-color: black;
          color: white;
          position: relative;
       }
+   
    .kid {
       position:relative;
       top: -90px;
@@ -80,10 +81,12 @@
       margin: 10px 10px 10px 10px; 
    }
 
-   .container a:hover {width:400px;height:600px;}  /* mouse over link 
+   /* The class below is used to enlarge portfolio images when you click on them. */
+   .container a:hover {width:400px;height:600px;}   
 
 /*  CONTACT.HTML- The section directly below is for the contact.html page only.  */
 
+   /* The background image for the contact page. */
    #contactmain {
       background-image: url("Assets/me2.jpg");
       background-size: contain;
@@ -121,6 +124,7 @@
       margin-left: 100px;
    }
 
+   /* This is the styling for the contact form font. "Name", "Email", etc. */
    label {
       color:black;
       background-color: #fc33ff;
