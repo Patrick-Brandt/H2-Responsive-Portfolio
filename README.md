@@ -13,9 +13,7 @@
        this project is significantly higher than my previous assignment, and I have definitely learned the benefits of doing so.
        
  ## Motivation
-    In addition to being a required homework assignment, part of my motivation was to learn how to do this for myself. Being that I am an artist, and want to display my
- artwork. In the past, I had to rely on websites like Wix or Squarespace. I love that now I can do this for myself, rather than relying on a template created by somebody 
- else. In addition, I can now build a portfolio again (or add to this one) for displaying my future coding/web design projects.
+    In addition to being a required homework assignment, part of my motivation was to learn how to do this for myself. Being that I am an artist, and want to display my artwork. In the past, I had to rely on websites like Wix or Squarespace. I love that now I can do this for myself, rather than relying on a template created by somebody else. In addition, I can now build a portfolio again (or add to this one) for displaying my future coding/web design projects.
  
  ## Programming Languages Used:
     * HTML
@@ -49,7 +47,20 @@
 ![Contact Form](https://github.com/Patrick-Brandt/H2-Responsive-Portfolio/blob/main/Assets2-README/contactform.png?raw=true)
 ![Contact-responsive](https://github.com/Patrick-Brandt/H2-Responsive-Portfolio/blob/main/Assets2-README/contact.responsive.png?raw=true)
 
+## Link
+[H2- Portfolio Page](https://patrick-brandt.github.io/H2-Responsive-Portfolio/)
+
+## License
  
+ Copyright (c) 2021 Patrick Brandt
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
  
  
 
